@@ -1,0 +1,7 @@
+IMDB Dataset.csv
+sentiment_model.pkl
+vectorizer.pkl
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.pyc
